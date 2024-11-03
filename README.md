@@ -1,7 +1,7 @@
 # labpy.03
-#### Nama   = DZAKI ARIF RAHMAN  
+#### Nama   = DONI SAPUTRA
 #### Kelas  = TI.24.A4  
-#### NIM    = 312410312  
+#### NIM    = 312410325
 #### Matkul = BAHASA PEMOGRAMAN
 
 # LATIHAN 1:latihan1.py
@@ -85,6 +85,9 @@ Selesai
 ```
 
 ## Berikut adalah hasin screenshot vsc
+
+![Cuplikan layar 2024-11-03 143013](https://github.com/user-attachments/assets/1d612e8b-d6ef-404f-b1cc-433c8fb8541f)
+
 
 
 
@@ -178,6 +181,7 @@ laba bulan ke- 8 sebesar: 3000000.0
 Total laba adalah: 19000000.0
 ```
 ## Berikut adalah hasin screenshot vsc
+![Cuplikan layar 2024-11-03 143559](https://github.com/user-attachments/assets/25a9f909-239e-4665-9860-78af937f19e2)
 
 
 
@@ -258,3 +262,5 @@ Terima kasih telah menggunakan ATM!
    Pengguna kemudian memilih opsi "Keluar" untuk mengakhiri program.
 
 ## Berikut adalah hasin screenshot vsc
+
+![Cuplikan layar 2024-11-03 144423](https://github.com/user-attachments/assets/9fead007-7ca6-4cc4-92d0-a3de45d943a7)
